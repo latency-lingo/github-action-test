@@ -8,4 +8,4 @@ jobs:
         with:
           api-key: ${{ secrets.LATENCY_LINGO_API_KEY }}
           file: jmeter-results.jtl
-          label: Github Action Test
+          label: github-action-test
