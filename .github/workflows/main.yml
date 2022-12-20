@@ -4,7 +4,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3.2.0
-      - uses: latency-lingo/github-action@52fa4a0
+      - uses: latency-lingo/github-action@52fa4a09a2c3e359015b40996dcc0afdaf399088
         with:
           api-key: ${{ secrets.LATENCY_LINGO_API_KEY }}
           file: jmeter-results.jtl
