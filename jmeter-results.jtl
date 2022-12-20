@@ -1,0 +1,454 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1666541205810,854,Home page,200,OK,Thread Group 1-1,text,true,,242,131,2,2,http://6bf0-184-147-205-151.ngrok.io/,849,0,66
+1666541206348,1009,Home page,200,OK,Thread Group 1-2,text,true,,242,131,3,3,http://6bf0-184-147-205-151.ngrok.io/,1009,0,28
+1666541206950,720,Home page,200,OK,Thread Group 1-3,text,true,,242,131,4,4,http://6bf0-184-147-205-151.ngrok.io/,720,0,30
+1666541207358,1160,Login,200,OK,Thread Group 1-2,text,true,,294,220,5,5,http://6bf0-184-147-205-151.ngrok.io/login,1160,0,0
+1666541207551,1490,Home page,200,OK,Thread Group 1-4,text,true,,242,131,6,6,http://6bf0-184-147-205-151.ngrok.io/,1490,0,30
+1666541207671,1491,Login,200,OK,Thread Group 1-3,text,true,,294,220,6,6,http://6bf0-184-147-205-151.ngrok.io/login,1491,0,0
+1666541208750,679,Home page,200,OK,Thread Group 1-6,text,true,,242,131,7,7,http://6bf0-184-147-205-151.ngrok.io/,679,0,28
+1666541208152,1363,Home page,200,OK,Thread Group 1-5,text,true,,242,131,7,7,http://6bf0-184-147-205-151.ngrok.io/,1363,0,30
+1666541206665,3022,Login,200,OK,Thread Group 1-1,text,true,,294,220,7,7,http://6bf0-184-147-205-151.ngrok.io/login,3022,0,0
+1666541209353,732,Home page,200,OK,Thread Group 1-7,text,true,,242,131,8,8,http://6bf0-184-147-205-151.ngrok.io/,732,0,36
+1666541209042,1438,Login,200,OK,Thread Group 1-4,text,true,,294,220,8,8,http://6bf0-184-147-205-151.ngrok.io/login,1438,0,0
+1666541208518,2354,Search items,200,OK,Thread Group 1-2,text,true,,296,221,9,9,http://6bf0-184-147-205-151.ngrok.io/search,2354,0,0
+1666541209163,1881,Search items,200,OK,Thread Group 1-3,text,true,,296,221,9,9,http://6bf0-184-147-205-151.ngrok.io/search,1881,0,0
+1666541209960,1254,Home page,200,OK,Thread Group 1-8,text,true,,242,131,10,10,http://6bf0-184-147-205-151.ngrok.io/,1254,0,40
+1666541209688,1718,Search items,200,OK,Thread Group 1-1,text,true,,296,221,10,10,http://6bf0-184-147-205-151.ngrok.io/search,1717,0,0
+1666541209515,2000,Login,200,OK,Thread Group 1-5,text,true,,294,220,10,10,http://6bf0-184-147-205-151.ngrok.io/login,2000,0,0
+1666541209430,2209,Login,200,OK,Thread Group 1-6,text,true,,294,220,10,10,http://6bf0-184-147-205-151.ngrok.io/login,2209,0,0
+1666541210549,1501,Home page,200,OK,Thread Group 1-9,text,true,,242,131,11,11,http://6bf0-184-147-205-151.ngrok.io/,1500,0,29
+1666541211045,1121,Add item to cart,200,OK,Thread Group 1-3,text,true,,285,224,11,11,http://6bf0-184-147-205-151.ngrok.io/cart/item,1121,0,0
+1666541211150,1070,Home page,200,OK,Thread Group 1-10,text,true,,242,131,11,11,http://6bf0-184-147-205-151.ngrok.io/,1070,0,29
+1666541211750,709,Home page,200,OK,Thread Group 1-11,text,true,,242,131,12,12,http://6bf0-184-147-205-151.ngrok.io/,709,0,29
+1666541211406,1146,Add item to cart,200,OK,Thread Group 1-1,text,true,,285,224,12,12,http://6bf0-184-147-205-151.ngrok.io/cart/item,1146,0,0
+1666541210873,1722,Add item to cart,200,OK,Thread Group 1-2,text,true,,285,224,12,12,http://6bf0-184-147-205-151.ngrok.io/cart/item,1722,0,0
+1666541211215,1456,Login,200,OK,Thread Group 1-8,text,true,,294,220,12,12,http://6bf0-184-147-205-151.ngrok.io/login,1456,0,0
+1666541210087,2861,Login,200,OK,Thread Group 1-7,text,true,,294,220,12,12,http://6bf0-184-147-205-151.ngrok.io/login,2860,0,0
+1666541210480,2468,Search items,200,OK,Thread Group 1-4,text,true,,296,221,12,12,http://6bf0-184-147-205-151.ngrok.io/search,2467,0,0
+1666541212353,924,Home page,200,OK,Thread Group 1-12,text,true,,242,131,13,13,http://6bf0-184-147-205-151.ngrok.io/,924,0,29
+1666541211639,1715,Search items,200,OK,Thread Group 1-6,text,true,,296,221,13,13,http://6bf0-184-147-205-151.ngrok.io/search,1715,0,0
+1666541212050,1447,Login,200,OK,Thread Group 1-9,text,true,,294,220,13,13,http://6bf0-184-147-205-151.ngrok.io/login,1447,0,0
+1666541211516,2051,Search items,200,OK,Thread Group 1-5,text,true,,296,221,14,14,http://6bf0-184-147-205-151.ngrok.io/search,2051,0,0
+1666541212220,1421,Login,200,OK,Thread Group 1-10,text,true,,294,220,14,14,http://6bf0-184-147-205-151.ngrok.io/login,1421,0,0
+1666541212948,818,Search items,200,OK,Thread Group 1-7,text,true,,296,221,14,14,http://6bf0-184-147-205-151.ngrok.io/search,818,0,0
+1666541212166,1855,Checkout,200,OK,Thread Group 1-3,text,true,,280,223,14,14,http://6bf0-184-147-205-151.ngrok.io/checkout,1855,0,0
+1666541212672,1674,Search items,200,OK,Thread Group 1-8,text,true,,296,221,15,15,http://6bf0-184-147-205-151.ngrok.io/search,1674,0,0
+1666541213497,919,Search items,200,OK,Thread Group 1-9,text,true,,296,221,15,15,http://6bf0-184-147-205-151.ngrok.io/search,919,0,0
+1666541213551,911,Home page,200,OK,Thread Group 1-14,text,true,,242,131,15,15,http://6bf0-184-147-205-151.ngrok.io/,911,0,28
+1666541212951,1551,Home page,200,OK,Thread Group 1-13,text,true,,242,131,15,15,http://6bf0-184-147-205-151.ngrok.io/,1551,0,27
+1666541213567,935,Add item to cart,200,OK,Thread Group 1-5,text,true,,285,224,15,15,http://6bf0-184-147-205-151.ngrok.io/cart/item,935,0,0
+1666541212948,1676,Add item to cart,200,OK,Thread Group 1-4,text,true,,285,224,15,15,http://6bf0-184-147-205-151.ngrok.io/cart/item,1676,0,0
+1666541213354,1328,Add item to cart,200,OK,Thread Group 1-6,text,true,,285,224,15,15,http://6bf0-184-147-205-151.ngrok.io/cart/item,1328,0,0
+1666541212461,2468,Login,200,OK,Thread Group 1-11,text,true,,294,220,16,16,http://6bf0-184-147-205-151.ngrok.io/login,2468,0,0
+1666541214032,1121,Home page,200,OK,Thread Group 1-3,text,true,,242,131,16,16,http://6bf0-184-147-205-151.ngrok.io/,1121,0,29
+1666541213767,1403,Add item to cart,200,OK,Thread Group 1-7,text,true,,285,224,16,16,http://6bf0-184-147-205-151.ngrok.io/cart/item,1403,0,0
+1666541214154,1126,Home page,200,OK,Thread Group 1-15,text,true,,242,131,16,16,http://6bf0-184-147-205-151.ngrok.io/,1126,0,28
+1666541214416,900,Add item to cart,200,OK,Thread Group 1-9,text,true,,285,224,16,16,http://6bf0-184-147-205-151.ngrok.io/cart/item,899,0,0
+1666541213641,1752,Search items,200,OK,Thread Group 1-10,text,true,,296,221,17,17,http://6bf0-184-147-205-151.ngrok.io/search,1752,0,0
+1666541214751,875,Home page,200,OK,Thread Group 1-16,text,true,,242,131,17,17,http://6bf0-184-147-205-151.ngrok.io/,875,0,29
+1666541212596,3074,Checkout,200,OK,Thread Group 1-2,text,true,,280,223,17,17,http://6bf0-184-147-205-151.ngrok.io/checkout,3074,0,0
+1666541215348,709,Home page,200,OK,Thread Group 1-17,text,true,,242,131,18,18,http://6bf0-184-147-205-151.ngrok.io/,709,0,30
+1666541214502,1612,Login,200,OK,Thread Group 1-13,text,true,,294,220,18,18,http://6bf0-184-147-205-151.ngrok.io/login,1612,0,0
+1666541214346,1808,Add item to cart,200,OK,Thread Group 1-8,text,true,,285,224,18,18,http://6bf0-184-147-205-151.ngrok.io/cart/item,1808,0,0
+1666541214929,1309,Search items,200,OK,Thread Group 1-11,text,true,,296,221,18,18,http://6bf0-184-147-205-151.ngrok.io/search,1309,0,0
+1666541213277,3153,Login,200,OK,Thread Group 1-12,text,true,,294,220,18,18,http://6bf0-184-147-205-151.ngrok.io/login,3153,0,0
+1666541212553,3995,Checkout,200,OK,Thread Group 1-1,text,true,,280,223,18,18,http://6bf0-184-147-205-151.ngrok.io/checkout,3995,0,0
+1666541215670,890,Home page,200,OK,Thread Group 1-2,text,true,,242,131,19,19,http://6bf0-184-147-205-151.ngrok.io/,890,0,30
+1666541215950,844,Home page,200,OK,Thread Group 1-18,text,true,,242,131,19,19,http://6bf0-184-147-205-151.ngrok.io/,844,0,29
+1666541214624,2356,Checkout,200,OK,Thread Group 1-4,text,true,,280,223,19,19,http://6bf0-184-147-205-151.ngrok.io/checkout,2356,0,0
+1666541214463,2584,Login,200,OK,Thread Group 1-14,text,true,,294,220,19,19,http://6bf0-184-147-205-151.ngrok.io/login,2584,0,0
+1666541215394,1680,Add item to cart,200,OK,Thread Group 1-10,text,true,,285,224,19,19,http://6bf0-184-147-205-151.ngrok.io/cart/item,1680,0,0
+1666541214502,2585,Checkout,200,OK,Thread Group 1-5,text,true,,280,223,19,19,http://6bf0-184-147-205-151.ngrok.io/checkout,2585,0,0
+1666541216548,1083,Home page,200,OK,Thread Group 1-1,text,true,,242,131,20,20,http://6bf0-184-147-205-151.ngrok.io/,1083,0,28
+1666541216549,1193,Home page,200,OK,Thread Group 1-19,text,true,,242,131,20,20,http://6bf0-184-147-205-151.ngrok.io/,1193,0,29
+1666541216238,1538,Add item to cart,200,OK,Thread Group 1-11,text,true,,285,224,21,21,http://6bf0-184-147-205-151.ngrok.io/cart/item,1538,0,0
+1666541216980,927,Home page,200,OK,Thread Group 1-4,text,true,,242,131,21,21,http://6bf0-184-147-205-151.ngrok.io/,927,0,28
+1666541215281,2636,Login,200,OK,Thread Group 1-15,text,true,,294,220,21,21,http://6bf0-184-147-205-151.ngrok.io/login,2636,0,0
+1666541216155,1779,Checkout,200,OK,Thread Group 1-8,text,true,,280,223,21,21,http://6bf0-184-147-205-151.ngrok.io/checkout,1779,0,0
+1666541216114,1924,Search items,200,OK,Thread Group 1-13,text,true,,296,221,21,21,http://6bf0-184-147-205-151.ngrok.io/search,1924,0,0
+1666541215153,3063,Login,200,OK,Thread Group 1-3,text,true,,294,220,21,21,http://6bf0-184-147-205-151.ngrok.io/login,3062,0,0
+1666541215626,2667,Login,200,OK,Thread Group 1-16,text,true,,294,220,21,21,http://6bf0-184-147-205-151.ngrok.io/login,2667,0,0
+1666541216560,1834,Login,200,OK,Thread Group 1-2,text,true,,294,220,22,22,http://6bf0-184-147-205-151.ngrok.io/login,1834,0,0
+1666541217087,1385,Home page,200,OK,Thread Group 1-5,text,true,,242,131,22,22,http://6bf0-184-147-205-151.ngrok.io/,1385,0,29
+1666541214682,3790,Checkout,200,OK,Thread Group 1-6,text,true,,280,223,22,22,http://6bf0-184-147-205-151.ngrok.io/checkout,3790,0,0
+1666541217752,767,Home page,200,OK,Thread Group 1-21,text,true,,242,131,22,22,http://6bf0-184-147-205-151.ngrok.io/,767,0,27
+1666541217047,1503,Search items,200,OK,Thread Group 1-14,text,true,,296,221,22,22,http://6bf0-184-147-205-151.ngrok.io/search,1503,0,0
+1666541217152,1526,Home page,200,OK,Thread Group 1-20,text,true,,242,131,22,22,http://6bf0-184-147-205-151.ngrok.io/,1526,0,28
+1666541216430,2314,Search items,200,OK,Thread Group 1-12,text,true,,296,221,22,22,http://6bf0-184-147-205-151.ngrok.io/search,2314,0,0
+1666541217935,813,Home page,200,OK,Thread Group 1-8,text,true,,242,131,22,22,http://6bf0-184-147-205-151.ngrok.io/,813,0,30
+1666541215171,3619,Checkout,200,OK,Thread Group 1-7,text,true,,280,223,22,22,http://6bf0-184-147-205-151.ngrok.io/checkout,3619,0,0
+1666541218473,624,Home page,200,OK,Thread Group 1-6,text,true,,242,131,23,23,http://6bf0-184-147-205-151.ngrok.io/,624,0,27
+1666541216058,3158,Login,200,OK,Thread Group 1-17,text,true,,294,220,23,23,http://6bf0-184-147-205-151.ngrok.io/login,3158,0,0
+1666541217917,1384,Search items,200,OK,Thread Group 1-15,text,true,,296,221,23,23,http://6bf0-184-147-205-151.ngrok.io/search,1384,0,0
+1666541218038,1307,Add item to cart,200,OK,Thread Group 1-13,text,true,,285,224,23,23,http://6bf0-184-147-205-151.ngrok.io/cart/item,1307,0,0
+1666541218351,1076,Home page,200,OK,Thread Group 1-22,text,true,,242,131,23,23,http://6bf0-184-147-205-151.ngrok.io/,1076,0,29
+1666541215316,4201,Checkout,200,OK,Thread Group 1-9,text,true,,280,223,23,23,http://6bf0-184-147-205-151.ngrok.io/checkout,4201,0,0
+1666541218394,1135,Search items,200,OK,Thread Group 1-2,text,true,,296,221,23,23,http://6bf0-184-147-205-151.ngrok.io/search,1135,0,0
+1666541218790,771,Home page,200,OK,Thread Group 1-7,text,true,,242,131,24,24,http://6bf0-184-147-205-151.ngrok.io/,771,0,28
+1666541216795,2850,Login,200,OK,Thread Group 1-18,text,true,,294,220,24,24,http://6bf0-184-147-205-151.ngrok.io/login,2850,0,0
+1666541217074,2587,Checkout,200,OK,Thread Group 1-10,text,true,,280,223,24,24,http://6bf0-184-147-205-151.ngrok.io/checkout,2587,0,0
+1666541218550,1202,Add item to cart,200,OK,Thread Group 1-14,text,true,,285,224,24,24,http://6bf0-184-147-205-151.ngrok.io/cart/item,1201,0,0
+1666541218745,1037,Add item to cart,200,OK,Thread Group 1-12,text,true,,285,224,24,24,http://6bf0-184-147-205-151.ngrok.io/cart/item,1037,0,0
+1666541218951,836,Home page,200,OK,Thread Group 1-23,text,true,,242,131,24,24,http://6bf0-184-147-205-151.ngrok.io/,836,0,29
+1666541217908,1887,Login,200,OK,Thread Group 1-4,text,true,,294,220,24,24,http://6bf0-184-147-205-151.ngrok.io/login,1887,0,0
+1666541218748,1264,Login,200,OK,Thread Group 1-8,text,true,,294,220,24,24,http://6bf0-184-147-205-151.ngrok.io/login,1264,0,0
+1666541218216,1802,Search items,200,OK,Thread Group 1-3,text,true,,296,221,24,24,http://6bf0-184-147-205-151.ngrok.io/search,1802,0,0
+1666541217743,2453,Login,200,OK,Thread Group 1-19,text,true,,294,220,25,25,http://6bf0-184-147-205-151.ngrok.io/login,2453,0,0
+1666541219518,768,Home page,200,OK,Thread Group 1-9,text,true,,242,131,25,25,http://6bf0-184-147-205-151.ngrok.io/,768,0,29
+1666541218520,1939,Login,200,OK,Thread Group 1-21,text,true,,294,220,25,25,http://6bf0-184-147-205-151.ngrok.io/login,1939,0,0
+1666541218293,2183,Search items,200,OK,Thread Group 1-16,text,true,,296,221,25,25,http://6bf0-184-147-205-151.ngrok.io/search,2182,0,0
+1666541219530,947,Add item to cart,200,OK,Thread Group 1-2,text,true,,285,224,25,25,http://6bf0-184-147-205-151.ngrok.io/cart/item,947,0,0
+1666541219646,843,Search items,200,OK,Thread Group 1-18,text,true,,296,221,25,25,http://6bf0-184-147-205-151.ngrok.io/search,843,0,0
+1666541218472,2114,Login,200,OK,Thread Group 1-5,text,true,,294,220,25,25,http://6bf0-184-147-205-151.ngrok.io/login,2114,0,0
+1666541217631,3083,Login,200,OK,Thread Group 1-1,text,true,,294,220,25,25,http://6bf0-184-147-205-151.ngrok.io/login,3083,0,0
+1666541218679,2102,Login,200,OK,Thread Group 1-20,text,true,,294,220,26,26,http://6bf0-184-147-205-151.ngrok.io/login,2102,0,0
+1666541220154,640,Home page,200,OK,Thread Group 1-25,text,true,,242,131,26,26,http://6bf0-184-147-205-151.ngrok.io/,640,0,29
+1666541219302,1493,Add item to cart,200,OK,Thread Group 1-15,text,true,,285,224,26,26,http://6bf0-184-147-205-151.ngrok.io/cart/item,1493,0,0
+1666541219550,1475,Home page,200,OK,Thread Group 1-24,text,true,,242,131,26,26,http://6bf0-184-147-205-151.ngrok.io/,1475,0,29
+1666541219661,1419,Home page,200,OK,Thread Group 1-10,text,true,,242,131,26,26,http://6bf0-184-147-205-151.ngrok.io/,1419,0,28
+1666541220018,1102,Add item to cart,200,OK,Thread Group 1-3,text,true,,285,224,26,26,http://6bf0-184-147-205-151.ngrok.io/cart/item,1102,0,0
+1666541217778,3344,Checkout,200,OK,Thread Group 1-11,text,true,,280,223,26,26,http://6bf0-184-147-205-151.ngrok.io/checkout,3344,0,0
+1666541219427,1730,Login,200,OK,Thread Group 1-22,text,true,,294,220,26,26,http://6bf0-184-147-205-151.ngrok.io/login,1730,0,0
+1666541219561,1780,Login,200,OK,Thread Group 1-7,text,true,,294,220,26,26,http://6bf0-184-147-205-151.ngrok.io/login,1780,0,0
+1666541220476,882,Add item to cart,200,OK,Thread Group 1-16,text,true,,285,224,27,27,http://6bf0-184-147-205-151.ngrok.io/cart/item,882,0,0
+1666541219217,2143,Search items,200,OK,Thread Group 1-17,text,true,,296,221,27,27,http://6bf0-184-147-205-151.ngrok.io/search,2143,0,0
+1666541219783,1699,Checkout,200,OK,Thread Group 1-12,text,true,,280,223,27,27,http://6bf0-184-147-205-151.ngrok.io/checkout,1699,0,0
+1666541219795,1703,Search items,200,OK,Thread Group 1-4,text,true,,296,221,27,27,http://6bf0-184-147-205-151.ngrok.io/search,1703,0,0
+1666541220287,1370,Login,200,OK,Thread Group 1-9,text,true,,294,220,27,27,http://6bf0-184-147-205-151.ngrok.io/login,1370,0,0
+1666541220752,978,Home page,200,OK,Thread Group 1-26,text,true,,242,131,27,27,http://6bf0-184-147-205-151.ngrok.io/,978,0,29
+1666541220489,1417,Add item to cart,200,OK,Thread Group 1-18,text,true,,285,224,27,27,http://6bf0-184-147-205-151.ngrok.io/cart/item,1417,0,0
+1666541219097,2871,Login,200,OK,Thread Group 1-6,text,true,,294,220,28,28,http://6bf0-184-147-205-151.ngrok.io/login,2871,0,0
+1666541221350,734,Home page,200,OK,Thread Group 1-27,text,true,,242,131,28,28,http://6bf0-184-147-205-151.ngrok.io/,734,0,29
+1666541221360,906,Add item to cart,200,OK,Thread Group 1-17,text,true,,285,224,28,28,http://6bf0-184-147-205-151.ngrok.io/cart/item,906,0,0
+1666541221485,798,Home page,200,OK,Thread Group 1-12,text,true,,242,131,28,28,http://6bf0-184-147-205-151.ngrok.io/,798,0,38
+1666541220460,1836,Search items,200,OK,Thread Group 1-21,text,true,,296,221,28,28,http://6bf0-184-147-205-151.ngrok.io/search,1836,0,0
+1666541220477,1849,Checkout,200,OK,Thread Group 1-2,text,true,,280,223,28,28,http://6bf0-184-147-205-151.ngrok.io/checkout,1849,0,0
+1666541220012,2316,Search items,200,OK,Thread Group 1-8,text,true,,296,221,28,28,http://6bf0-184-147-205-151.ngrok.io/search,2316,0,0
+1666541219788,2555,Login,200,OK,Thread Group 1-23,text,true,,294,220,28,28,http://6bf0-184-147-205-151.ngrok.io/login,2555,0,0
+1666541221122,1249,Home page,200,OK,Thread Group 1-11,text,true,,242,131,28,28,http://6bf0-184-147-205-151.ngrok.io/,1249,0,29
+1666541221081,1319,Login,200,OK,Thread Group 1-10,text,true,,294,220,28,28,http://6bf0-184-147-205-151.ngrok.io/login,1319,0,0
+1666541220794,1690,Login,200,OK,Thread Group 1-25,text,true,,294,220,28,28,http://6bf0-184-147-205-151.ngrok.io/login,1690,0,0
+1666541220795,1729,Checkout,200,OK,Thread Group 1-15,text,true,,280,223,28,28,http://6bf0-184-147-205-151.ngrok.io/checkout,1728,0,0
+1666541221500,1031,Add item to cart,200,OK,Thread Group 1-4,text,true,,285,224,28,28,http://6bf0-184-147-205-151.ngrok.io/cart/item,1031,0,0
+1666541220782,1804,Search items,200,OK,Thread Group 1-20,text,true,,296,221,29,29,http://6bf0-184-147-205-151.ngrok.io/search,1804,0,0
+1666541219346,3262,Checkout,200,OK,Thread Group 1-13,text,true,,280,223,29,29,http://6bf0-184-147-205-151.ngrok.io/checkout,3262,0,0
+1666541220587,2067,Search items,200,OK,Thread Group 1-5,text,true,,296,221,29,29,http://6bf0-184-147-205-151.ngrok.io/search,2067,0,0
+1666541220196,2474,Search items,200,OK,Thread Group 1-19,text,true,,296,221,29,29,http://6bf0-184-147-205-151.ngrok.io/search,2474,0,0
+1666541219752,3160,Checkout,200,OK,Thread Group 1-14,text,true,,280,223,29,29,http://6bf0-184-147-205-151.ngrok.io/checkout,3160,0,0
+1666541221026,1894,Login,200,OK,Thread Group 1-24,text,true,,294,220,29,29,http://6bf0-184-147-205-151.ngrok.io/login,1894,0,0
+1666541221969,1094,Search items,200,OK,Thread Group 1-6,text,true,,296,221,29,29,http://6bf0-184-147-205-151.ngrok.io/search,1094,0,0
+1666541221157,1923,Search items,200,OK,Thread Group 1-22,text,true,,296,221,29,29,http://6bf0-184-147-205-151.ngrok.io/search,1923,0,0
+1666541220714,2492,Search items,200,OK,Thread Group 1-1,text,true,,296,221,30,30,http://6bf0-184-147-205-151.ngrok.io/search,2492,0,0
+1666541221657,1570,Search items,200,OK,Thread Group 1-9,text,true,,296,221,30,30,http://6bf0-184-147-205-151.ngrok.io/search,1570,0,0
+1666541222551,806,Home page,200,OK,Thread Group 1-29,text,true,,242,131,30,30,http://6bf0-184-147-205-151.ngrok.io/,805,0,29
+1666541222609,748,Home page,200,OK,Thread Group 1-13,text,true,,242,131,30,30,http://6bf0-184-147-205-151.ngrok.io/,748,0,29
+1666541221342,2021,Search items,200,OK,Thread Group 1-7,text,true,,296,221,30,30,http://6bf0-184-147-205-151.ngrok.io/search,2021,0,0
+1666541221950,1452,Home page,200,OK,Thread Group 1-28,text,true,,242,131,30,30,http://6bf0-184-147-205-151.ngrok.io/,1452,0,37
+1666541222524,912,Home page,200,OK,Thread Group 1-15,text,true,,242,131,30,30,http://6bf0-184-147-205-151.ngrok.io/,912,0,28
+1666541222327,1113,Home page,200,OK,Thread Group 1-2,text,true,,242,131,30,30,http://6bf0-184-147-205-151.ngrok.io/,1113,0,29
+1666541222670,825,Add item to cart,200,OK,Thread Group 1-19,text,true,,285,224,30,30,http://6bf0-184-147-205-151.ngrok.io/cart/item,825,0,0
+1666541221731,1824,Login,200,OK,Thread Group 1-26,text,true,,294,220,30,30,http://6bf0-184-147-205-151.ngrok.io/login,1824,0,0
+1666541222586,1047,Add item to cart,200,OK,Thread Group 1-20,text,true,,285,224,30,30,http://6bf0-184-147-205-151.ngrok.io/cart/item,1047,0,0
+1666541222654,985,Add item to cart,200,OK,Thread Group 1-5,text,true,,285,224,30,30,http://6bf0-184-147-205-151.ngrok.io/cart/item,985,0,0
+1666541222296,1441,Add item to cart,200,OK,Thread Group 1-21,text,true,,285,224,30,30,http://6bf0-184-147-205-151.ngrok.io/cart/item,1441,0,0
+1666541223151,595,Home page,200,OK,Thread Group 1-30,text,true,,242,131,30,30,http://6bf0-184-147-205-151.ngrok.io/,595,0,29
+1666541222329,1668,Add item to cart,200,OK,Thread Group 1-8,text,true,,285,224,31,31,http://6bf0-184-147-205-151.ngrok.io/cart/item,1668,0,0
+1666541222283,1910,Login,200,OK,Thread Group 1-12,text,true,,294,220,31,31,http://6bf0-184-147-205-151.ngrok.io/login,1910,0,0
+1666541222344,1853,Search items,200,OK,Thread Group 1-23,text,true,,296,221,31,31,http://6bf0-184-147-205-151.ngrok.io/search,1853,0,0
+1666541222914,1287,Home page,200,OK,Thread Group 1-14,text,true,,242,131,31,31,http://6bf0-184-147-205-151.ngrok.io/,1287,0,28
+1666541221906,2452,Checkout,200,OK,Thread Group 1-18,text,true,,280,223,32,32,http://6bf0-184-147-205-151.ngrok.io/checkout,2452,0,0
+1666541221359,3029,Checkout,200,OK,Thread Group 1-16,text,true,,280,223,32,32,http://6bf0-184-147-205-151.ngrok.io/checkout,3028,0,0
+1666541223207,1319,Add item to cart,200,OK,Thread Group 1-1,text,true,,285,224,32,32,http://6bf0-184-147-205-151.ngrok.io/cart/item,1319,0,0
+1666541223063,1559,Add item to cart,200,OK,Thread Group 1-6,text,true,,285,224,32,32,http://6bf0-184-147-205-151.ngrok.io/cart/item,1559,0,0
+1666541222372,2260,Login,200,OK,Thread Group 1-11,text,true,,294,220,32,32,http://6bf0-184-147-205-151.ngrok.io/login,2260,0,0
+1666541222267,2403,Checkout,200,OK,Thread Group 1-17,text,true,,280,223,32,32,http://6bf0-184-147-205-151.ngrok.io/checkout,2403,0,0
+1666541223357,1432,Login,200,OK,Thread Group 1-29,text,true,,294,220,32,32,http://6bf0-184-147-205-151.ngrok.io/login,1432,0,0
+1666541223081,1737,Add item to cart,200,OK,Thread Group 1-22,text,true,,285,224,32,32,http://6bf0-184-147-205-151.ngrok.io/cart/item,1737,0,0
+1666541223228,1620,Add item to cart,200,OK,Thread Group 1-9,text,true,,285,224,32,32,http://6bf0-184-147-205-151.ngrok.io/cart/item,1620,0,0
+1666541222921,1943,Search items,200,OK,Thread Group 1-24,text,true,,296,221,32,32,http://6bf0-184-147-205-151.ngrok.io/search,1943,0,0
+1666541222484,2404,Search items,200,OK,Thread Group 1-25,text,true,,296,221,32,32,http://6bf0-184-147-205-151.ngrok.io/search,2404,0,0
+1666541222400,2542,Search items,200,OK,Thread Group 1-10,text,true,,296,221,32,32,http://6bf0-184-147-205-151.ngrok.io/search,2542,0,0
+1666541223403,1539,Login,200,OK,Thread Group 1-28,text,true,,294,220,32,32,http://6bf0-184-147-205-151.ngrok.io/login,1539,0,0
+1666541223754,1200,Home page,200,OK,Thread Group 1-31,text,true,,242,131,33,33,http://6bf0-184-147-205-151.ngrok.io/,1200,0,31
+1666541222085,2937,Login,200,OK,Thread Group 1-27,text,true,,294,220,33,33,http://6bf0-184-147-205-151.ngrok.io/login,2937,0,0
+1666541223363,1679,Add item to cart,200,OK,Thread Group 1-7,text,true,,285,224,33,33,http://6bf0-184-147-205-151.ngrok.io/cart/item,1679,0,0
+1666541223358,1832,Login,200,OK,Thread Group 1-13,text,true,,294,220,33,33,http://6bf0-184-147-205-151.ngrok.io/login,1832,0,0
+1666541222532,2659,Checkout,200,OK,Thread Group 1-4,text,true,,280,223,33,33,http://6bf0-184-147-205-151.ngrok.io/checkout,2659,0,0
+1666541223440,1831,Login,200,OK,Thread Group 1-2,text,true,,294,220,33,33,http://6bf0-184-147-205-151.ngrok.io/login,1831,0,0
+1666541221120,4180,Checkout,200,OK,Thread Group 1-3,text,true,,280,223,33,33,http://6bf0-184-147-205-151.ngrok.io/checkout,4180,0,0
+1666541224359,1053,Home page,200,OK,Thread Group 1-18,text,true,,242,131,33,33,http://6bf0-184-147-205-151.ngrok.io/,1053,0,29
+1666541224388,1057,Home page,200,OK,Thread Group 1-16,text,true,,242,131,33,33,http://6bf0-184-147-205-151.ngrok.io/,1057,0,35
+1666541224201,1280,Login,200,OK,Thread Group 1-14,text,true,,294,220,33,33,http://6bf0-184-147-205-151.ngrok.io/login,1280,0,0
+1666541223639,1842,Checkout,200,OK,Thread Group 1-5,text,true,,280,223,33,33,http://6bf0-184-147-205-151.ngrok.io/checkout,1842,0,0
+1666541223437,2116,Login,200,OK,Thread Group 1-15,text,true,,294,220,34,34,http://6bf0-184-147-205-151.ngrok.io/login,2116,0,0
+1666541223633,1985,Checkout,200,OK,Thread Group 1-20,text,true,,280,223,34,34,http://6bf0-184-147-205-151.ngrok.io/checkout,1985,0,0
+1666541224633,989,Search items,200,OK,Thread Group 1-11,text,true,,296,221,34,34,http://6bf0-184-147-205-151.ngrok.io/search,989,0,0
+1666541224350,1343,Home page,200,OK,Thread Group 1-32,text,true,,242,131,34,34,http://6bf0-184-147-205-151.ngrok.io/,1343,0,28
+1666541224864,875,Add item to cart,200,OK,Thread Group 1-24,text,true,,285,224,34,34,http://6bf0-184-147-205-151.ngrok.io/cart/item,875,0,0
+1666541224197,1578,Add item to cart,200,OK,Thread Group 1-23,text,true,,285,224,34,34,http://6bf0-184-147-205-151.ngrok.io/cart/item,1578,0,0
+1666541223555,2220,Search items,200,OK,Thread Group 1-26,text,true,,296,221,34,34,http://6bf0-184-147-205-151.ngrok.io/search,2220,0,0
+1666541224888,1031,Add item to cart,200,OK,Thread Group 1-25,text,true,,285,224,34,34,http://6bf0-184-147-205-151.ngrok.io/cart/item,1031,0,0
+1666541224194,1741,Search items,200,OK,Thread Group 1-12,text,true,,296,221,34,34,http://6bf0-184-147-205-151.ngrok.io/search,1741,0,0
+1666541225301,769,Home page,200,OK,Thread Group 1-3,text,true,,242,131,34,34,http://6bf0-184-147-205-151.ngrok.io/,769,0,28
+1666541225481,605,Home page,200,OK,Thread Group 1-5,text,true,,242,131,34,34,http://6bf0-184-147-205-151.ngrok.io/,605,0,29
+1666541224527,1568,Checkout,200,OK,Thread Group 1-1,text,true,,280,223,34,34,http://6bf0-184-147-205-151.ngrok.io/checkout,1568,0,0
+1666541224942,1158,Search items,200,OK,Thread Group 1-28,text,true,,296,221,34,34,http://6bf0-184-147-205-151.ngrok.io/search,1158,0,0
+1666541225192,950,Home page,200,OK,Thread Group 1-4,text,true,,242,131,34,34,http://6bf0-184-147-205-151.ngrok.io/,950,0,30
+1666541224671,1487,Home page,200,OK,Thread Group 1-17,text,true,,242,131,35,35,http://6bf0-184-147-205-151.ngrok.io/,1487,0,29
+1666541225553,818,Search items,200,OK,Thread Group 1-15,text,true,,296,221,35,35,http://6bf0-184-147-205-151.ngrok.io/search,818,0,0
+1666541224790,1632,Search items,200,OK,Thread Group 1-29,text,true,,296,221,35,35,http://6bf0-184-147-205-151.ngrok.io/search,1632,0,0
+1666541225619,803,Home page,200,OK,Thread Group 1-20,text,true,,242,131,35,35,http://6bf0-184-147-205-151.ngrok.io/,803,0,30
+1666541224949,1551,Home page,200,OK,Thread Group 1-33,text,true,,242,131,35,35,http://6bf0-184-147-205-151.ngrok.io/,1551,0,29
+1666541223738,2847,Checkout,200,OK,Thread Group 1-21,text,true,,280,223,35,35,http://6bf0-184-147-205-151.ngrok.io/checkout,2847,0,0
+1666541224942,1670,Add item to cart,200,OK,Thread Group 1-10,text,true,,285,224,35,35,http://6bf0-184-147-205-151.ngrok.io/cart/item,1670,0,0
+1666541225552,1115,Home page,200,OK,Thread Group 1-34,text,true,,242,131,35,35,http://6bf0-184-147-205-151.ngrok.io/,1115,0,29
+1666541223495,3213,Checkout,200,OK,Thread Group 1-19,text,true,,280,223,35,35,http://6bf0-184-147-205-151.ngrok.io/checkout,3213,0,0
+1666541223747,2967,Login,200,OK,Thread Group 1-30,text,true,,294,220,35,35,http://6bf0-184-147-205-151.ngrok.io/login,2967,0,0
+1666541223998,2734,Checkout,200,OK,Thread Group 1-8,text,true,,280,223,35,35,http://6bf0-184-147-205-151.ngrok.io/checkout,2734,0,0
+1666541225622,1140,Add item to cart,200,OK,Thread Group 1-11,text,true,,285,224,36,36,http://6bf0-184-147-205-151.ngrok.io/cart/item,1140,0,0
+1666541226100,908,Add item to cart,200,OK,Thread Group 1-28,text,true,,285,224,36,36,http://6bf0-184-147-205-151.ngrok.io/cart/item,908,0,0
+1666541226152,857,Home page,200,OK,Thread Group 1-35,text,true,,242,131,36,36,http://6bf0-184-147-205-151.ngrok.io/,857,0,27
+1666541225693,1447,Login,200,OK,Thread Group 1-32,text,true,,294,220,36,36,http://6bf0-184-147-205-151.ngrok.io/login,1447,0,0
+1666541225271,1946,Search items,200,OK,Thread Group 1-2,text,true,,296,221,36,36,http://6bf0-184-147-205-151.ngrok.io/search,1946,0,0
+1666541224624,2661,Checkout,200,OK,Thread Group 1-6,text,true,,280,223,36,36,http://6bf0-184-147-205-151.ngrok.io/checkout,2661,0,0
+1666541226096,1197,Home page,200,OK,Thread Group 1-1,text,true,,242,131,36,36,http://6bf0-184-147-205-151.ngrok.io/,1196,0,29
+1666541226158,1144,Login,200,OK,Thread Group 1-17,text,true,,294,220,36,36,http://6bf0-184-147-205-151.ngrok.io/login,1144,0,0
+1666541225022,2382,Search items,200,OK,Thread Group 1-27,text,true,,296,221,37,37,http://6bf0-184-147-205-151.ngrok.io/search,2382,0,0
+1666541226751,694,Home page,200,OK,Thread Group 1-36,text,true,,242,131,37,37,http://6bf0-184-147-205-151.ngrok.io/,694,0,29
+1666541225935,1532,Add item to cart,200,OK,Thread Group 1-12,text,true,,285,224,37,37,http://6bf0-184-147-205-151.ngrok.io/cart/item,1532,0,0
+1666541225191,2305,Search items,200,OK,Thread Group 1-13,text,true,,296,221,37,37,http://6bf0-184-147-205-151.ngrok.io/search,2305,0,0
+1666541225775,1750,Add item to cart,200,OK,Thread Group 1-26,text,true,,285,224,37,37,http://6bf0-184-147-205-151.ngrok.io/cart/item,1750,0,0
+1666541226715,872,Search items,200,OK,Thread Group 1-30,text,true,,296,221,37,37,http://6bf0-184-147-205-151.ngrok.io/search,872,0,0
+1666541225481,2144,Search items,200,OK,Thread Group 1-14,text,true,,296,221,37,37,http://6bf0-184-147-205-151.ngrok.io/search,2144,0,0
+1666541224954,2708,Login,200,OK,Thread Group 1-31,text,true,,294,220,37,37,http://6bf0-184-147-205-151.ngrok.io/login,2708,0,0
+1666541226708,959,Home page,200,OK,Thread Group 1-19,text,true,,242,131,37,37,http://6bf0-184-147-205-151.ngrok.io/,959,0,28
+1666541226732,960,Home page,200,OK,Thread Group 1-8,text,true,,242,131,37,37,http://6bf0-184-147-205-151.ngrok.io/,960,0,29
+1666541225919,1830,Checkout,200,OK,Thread Group 1-25,text,true,,280,223,37,37,http://6bf0-184-147-205-151.ngrok.io/checkout,1830,0,0
+1666541225413,2432,Login,200,OK,Thread Group 1-18,text,true,,294,220,37,37,http://6bf0-184-147-205-151.ngrok.io/login,2432,0,0
+1666541226372,1630,Add item to cart,200,OK,Thread Group 1-15,text,true,,285,224,38,38,http://6bf0-184-147-205-151.ngrok.io/cart/item,1630,0,0
+1666541226586,1463,Home page,200,OK,Thread Group 1-21,text,true,,242,131,38,38,http://6bf0-184-147-205-151.ngrok.io/,1463,0,28
+1666541226142,1926,Login,200,OK,Thread Group 1-4,text,true,,294,220,38,38,http://6bf0-184-147-205-151.ngrok.io/login,1926,0,0
+1666541226422,1699,Add item to cart,200,OK,Thread Group 1-29,text,true,,285,224,38,38,http://6bf0-184-147-205-151.ngrok.io/cart/item,1699,0,0
+1666541225445,2769,Login,200,OK,Thread Group 1-16,text,true,,294,220,38,38,http://6bf0-184-147-205-151.ngrok.io/login,2769,0,0
+1666541227405,825,Add item to cart,200,OK,Thread Group 1-27,text,true,,285,224,38,38,http://6bf0-184-147-205-151.ngrok.io/cart/item,825,0,0
+1666541226070,2277,Login,200,OK,Thread Group 1-3,text,true,,294,220,38,38,http://6bf0-184-147-205-151.ngrok.io/login,2277,0,0
+1666541227347,1085,Home page,200,OK,Thread Group 1-37,text,true,,242,131,38,38,http://6bf0-184-147-205-151.ngrok.io/,1085,0,29
+1666541225739,2711,Checkout,200,OK,Thread Group 1-24,text,true,,280,223,38,38,http://6bf0-184-147-205-151.ngrok.io/checkout,2711,0,0
+1666541227217,1263,Add item to cart,200,OK,Thread Group 1-2,text,true,,285,224,38,38,http://6bf0-184-147-205-151.ngrok.io/cart/item,1263,0,0
+1666541227951,649,Home page,200,OK,Thread Group 1-38,text,true,,242,131,39,39,http://6bf0-184-147-205-151.ngrok.io/,649,0,28
+1666541227750,850,Home page,200,OK,Thread Group 1-25,text,true,,242,131,39,39,http://6bf0-184-147-205-151.ngrok.io/,850,0,29
+1666541226668,2023,Login,200,OK,Thread Group 1-34,text,true,,294,220,39,39,http://6bf0-184-147-205-151.ngrok.io/login,2023,0,0
+1666541227286,1435,Home page,200,OK,Thread Group 1-6,text,true,,242,131,39,39,http://6bf0-184-147-205-151.ngrok.io/,1435,0,29
+1666541227496,1416,Add item to cart,200,OK,Thread Group 1-13,text,true,,285,224,39,39,http://6bf0-184-147-205-151.ngrok.io/cart/item,1416,0,0
+1666541227588,1354,Add item to cart,200,OK,Thread Group 1-30,text,true,,285,224,39,39,http://6bf0-184-147-205-151.ngrok.io/cart/item,1354,0,0
+1666541227303,1671,Search items,200,OK,Thread Group 1-17,text,true,,296,221,39,39,http://6bf0-184-147-205-151.ngrok.io/search,1671,0,0
+1666541226612,2370,Checkout,200,OK,Thread Group 1-10,text,true,,280,223,39,39,http://6bf0-184-147-205-151.ngrok.io/checkout,2370,0,0
+1666541226087,2898,Login,200,OK,Thread Group 1-5,text,true,,294,220,39,39,http://6bf0-184-147-205-151.ngrok.io/login,2898,0,0
+1666541227626,1411,Add item to cart,200,OK,Thread Group 1-14,text,true,,285,224,39,39,http://6bf0-184-147-205-151.ngrok.io/cart/item,1411,0,0
+1666541228214,852,Search items,200,OK,Thread Group 1-16,text,true,,296,221,39,39,http://6bf0-184-147-205-151.ngrok.io/search,852,0,0
+1666541224849,4259,Checkout,200,OK,Thread Group 1-9,text,true,,280,223,39,39,http://6bf0-184-147-205-151.ngrok.io/checkout,4259,0,0
+1666541224818,4290,Checkout,200,OK,Thread Group 1-22,text,true,,280,223,39,39,http://6bf0-184-147-205-151.ngrok.io/checkout,4290,0,0
+1666541228551,615,Home page,200,OK,Thread Group 1-39,text,true,,242,131,40,40,http://6bf0-184-147-205-151.ngrok.io/,615,0,29
+1666541226422,2794,Login,200,OK,Thread Group 1-20,text,true,,294,220,40,40,http://6bf0-184-147-205-151.ngrok.io/login,2794,0,0
+1666541227667,1601,Login,200,OK,Thread Group 1-19,text,true,,294,220,40,40,http://6bf0-184-147-205-151.ngrok.io/login,1601,0,0
+1666541225042,4257,Checkout,200,OK,Thread Group 1-7,text,true,,280,223,40,40,http://6bf0-184-147-205-151.ngrok.io/checkout,4257,0,0
+1666541227846,1627,Search items,200,OK,Thread Group 1-18,text,true,,296,221,40,40,http://6bf0-184-147-205-151.ngrok.io/search,1627,0,0
+1666541227008,2477,Checkout,200,OK,Thread Group 1-28,text,true,,280,223,40,40,http://6bf0-184-147-205-151.ngrok.io/checkout,2477,0,0
+1666541227140,2437,Search items,200,OK,Thread Group 1-32,text,true,,296,221,40,40,http://6bf0-184-147-205-151.ngrok.io/search,2437,0,0
+1666541227663,1920,Search items,200,OK,Thread Group 1-31,text,true,,296,221,40,40,http://6bf0-184-147-205-151.ngrok.io/search,1920,0,0
+1666541226500,3261,Login,200,OK,Thread Group 1-33,text,true,,294,220,41,41,http://6bf0-184-147-205-151.ngrok.io/login,3261,0,0
+1666541225775,4000,Checkout,200,OK,Thread Group 1-23,text,true,,280,223,41,41,http://6bf0-184-147-205-151.ngrok.io/checkout,4000,0,0
+1666541228451,1376,Home page,200,OK,Thread Group 1-24,text,true,,242,131,41,41,http://6bf0-184-147-205-151.ngrok.io/,1376,0,29
+1666541228231,1602,Checkout,200,OK,Thread Group 1-27,text,true,,280,223,41,41,http://6bf0-184-147-205-151.ngrok.io/checkout,1602,0,0
+1666541228049,1862,Login,200,OK,Thread Group 1-21,text,true,,294,220,41,41,http://6bf0-184-147-205-151.ngrok.io/login,1862,0,0
+1666541228348,1571,Search items,200,OK,Thread Group 1-3,text,true,,296,221,41,41,http://6bf0-184-147-205-151.ngrok.io/search,1571,0,0
+1666541227009,2928,Login,200,OK,Thread Group 1-35,text,true,,294,220,41,41,http://6bf0-184-147-205-151.ngrok.io/login,2928,0,0
+1666541228975,992,Add item to cart,200,OK,Thread Group 1-17,text,true,,285,224,41,41,http://6bf0-184-147-205-151.ngrok.io/cart/item,992,0,0
+1666541227293,2828,Login,200,OK,Thread Group 1-1,text,true,,294,220,41,41,http://6bf0-184-147-205-151.ngrok.io/login,2828,0,0
+1666541229109,1083,Home page,200,OK,Thread Group 1-22,text,true,,242,131,41,41,http://6bf0-184-147-205-151.ngrok.io/,1083,0,28
+1666541227525,2714,Checkout,200,OK,Thread Group 1-26,text,true,,280,223,41,41,http://6bf0-184-147-205-151.ngrok.io/checkout,2714,0,0
+1666541228983,1309,Home page,200,OK,Thread Group 1-10,text,true,,242,131,41,41,http://6bf0-184-147-205-151.ngrok.io/,1309,0,29
+1666541229474,880,Add item to cart,200,OK,Thread Group 1-18,text,true,,285,224,42,42,http://6bf0-184-147-205-151.ngrok.io/cart/item,880,0,0
+1666541229109,1293,Home page,200,OK,Thread Group 1-9,text,true,,242,131,42,42,http://6bf0-184-147-205-151.ngrok.io/,1293,0,28
+1666541229148,1285,Home page,200,OK,Thread Group 1-40,text,true,,242,131,42,42,http://6bf0-184-147-205-151.ngrok.io/,1285,0,28
+1666541228432,2043,Login,200,OK,Thread Group 1-37,text,true,,294,220,42,42,http://6bf0-184-147-205-151.ngrok.io/login,2043,0,0
+1666541226763,3726,Checkout,200,OK,Thread Group 1-11,text,true,,280,223,42,42,http://6bf0-184-147-205-151.ngrok.io/checkout,3725,0,0
+1666541228600,1892,Login,200,OK,Thread Group 1-25,text,true,,294,220,42,42,http://6bf0-184-147-205-151.ngrok.io/login,1892,0,0
+1666541228069,2473,Search items,200,OK,Thread Group 1-4,text,true,,296,221,42,42,http://6bf0-184-147-205-151.ngrok.io/search,2473,0,0
+1666541228481,2121,Checkout,200,OK,Thread Group 1-2,text,true,,280,223,42,42,http://6bf0-184-147-205-151.ngrok.io/checkout,2121,0,0
+1666541229301,1359,Home page,200,OK,Thread Group 1-7,text,true,,242,131,42,42,http://6bf0-184-147-205-151.ngrok.io/,1358,0,28
+1666541229748,912,Home page,200,OK,Thread Group 1-41,text,true,,242,131,42,42,http://6bf0-184-147-205-151.ngrok.io/,911,0,29
+1666541227445,3223,Login,200,OK,Thread Group 1-36,text,true,,294,220,42,42,http://6bf0-184-147-205-151.ngrok.io/login,3223,0,0
+1666541229486,1216,Home page,200,OK,Thread Group 1-28,text,true,,242,131,42,42,http://6bf0-184-147-205-151.ngrok.io/,1216,0,29
+1666541228986,1722,Search items,200,OK,Thread Group 1-5,text,true,,296,221,42,42,http://6bf0-184-147-205-151.ngrok.io/search,1722,0,0
+1666541227692,3020,Login,200,OK,Thread Group 1-8,text,true,,294,220,42,42,http://6bf0-184-147-205-151.ngrok.io/login,3020,0,0
+1666541229066,1755,Add item to cart,200,OK,Thread Group 1-16,text,true,,285,224,42,42,http://6bf0-184-147-205-151.ngrok.io/cart/item,1755,0,0
+1666541229938,884,Search items,200,OK,Thread Group 1-35,text,true,,296,221,42,42,http://6bf0-184-147-205-151.ngrok.io/search,884,0,0
+1666541228691,2216,Search items,200,OK,Thread Group 1-34,text,true,,296,221,42,42,http://6bf0-184-147-205-151.ngrok.io/search,2216,0,0
+1666541229216,1743,Search items,200,OK,Thread Group 1-20,text,true,,296,221,43,43,http://6bf0-184-147-205-151.ngrok.io/search,1742,0,0
+1666541229269,1700,Search items,200,OK,Thread Group 1-19,text,true,,296,221,43,43,http://6bf0-184-147-205-151.ngrok.io/search,1700,0,0
+1666541227467,3531,Checkout,200,OK,Thread Group 1-12,text,true,,280,223,43,43,http://6bf0-184-147-205-151.ngrok.io/checkout,3531,0,0
+1666541229775,1269,Home page,200,OK,Thread Group 1-23,text,true,,242,131,43,43,http://6bf0-184-147-205-151.ngrok.io/,1269,0,28
+1666541229583,1527,Add item to cart,200,OK,Thread Group 1-31,text,true,,285,224,43,43,http://6bf0-184-147-205-151.ngrok.io/cart/item,1527,0,0
+1666541229578,1566,Add item to cart,200,OK,Thread Group 1-32,text,true,,285,224,43,43,http://6bf0-184-147-205-151.ngrok.io/cart/item,1566,0,0
+1666541229920,1230,Add item to cart,200,OK,Thread Group 1-3,text,true,,285,224,43,43,http://6bf0-184-147-205-151.ngrok.io/cart/item,1230,0,0
+1666541230239,912,Home page,200,OK,Thread Group 1-26,text,true,,242,131,43,43,http://6bf0-184-147-205-151.ngrok.io/,912,0,29
+1666541230350,823,Home page,200,OK,Thread Group 1-42,text,true,,242,131,43,43,http://6bf0-184-147-205-151.ngrok.io/,823,0,29
+1666541229834,1491,Home page,200,OK,Thread Group 1-27,text,true,,242,131,43,43,http://6bf0-184-147-205-151.ngrok.io/,1491,0,27
+1666541229828,1515,Login,200,OK,Thread Group 1-24,text,true,,294,220,43,43,http://6bf0-184-147-205-151.ngrok.io/login,1515,0,0
+1666541230493,856,Search items,200,OK,Thread Group 1-25,text,true,,296,221,43,43,http://6bf0-184-147-205-151.ngrok.io/search,856,0,0
+1666541230489,968,Home page,200,OK,Thread Group 1-11,text,true,,242,131,43,43,http://6bf0-184-147-205-151.ngrok.io/,968,0,29
+1666541230708,854,Add item to cart,200,OK,Thread Group 1-5,text,true,,285,224,44,44,http://6bf0-184-147-205-151.ngrok.io/cart/item,854,0,0
+1666541229166,2419,Login,200,OK,Thread Group 1-39,text,true,,294,220,44,44,http://6bf0-184-147-205-151.ngrok.io/login,2419,0,0
+1666541230669,1000,Search items,200,OK,Thread Group 1-36,text,true,,296,221,44,44,http://6bf0-184-147-205-151.ngrok.io/search,1000,0,0
+1666541230713,970,Search items,200,OK,Thread Group 1-8,text,true,,296,221,44,44,http://6bf0-184-147-205-151.ngrok.io/search,970,0,0
+1666541230907,823,Add item to cart,200,OK,Thread Group 1-34,text,true,,285,224,44,44,http://6bf0-184-147-205-151.ngrok.io/cart/item,822,0,0
+1666541228600,3166,Login,200,OK,Thread Group 1-38,text,true,,294,220,44,44,http://6bf0-184-147-205-151.ngrok.io/login,3166,0,0
+1666541229761,2005,Search items,200,OK,Thread Group 1-33,text,true,,296,221,44,44,http://6bf0-184-147-205-151.ngrok.io/search,2005,0,0
+1666541230603,1315,Home page,200,OK,Thread Group 1-2,text,true,,242,131,44,44,http://6bf0-184-147-205-151.ngrok.io/,1315,0,29
+1666541230822,1125,Add item to cart,200,OK,Thread Group 1-35,text,true,,285,224,44,44,http://6bf0-184-147-205-151.ngrok.io/cart/item,1125,0,0
+1666541230403,1548,Login,200,OK,Thread Group 1-9,text,true,,294,220,44,44,http://6bf0-184-147-205-151.ngrok.io/login,1548,0,0
+1666541228721,3255,Login,200,OK,Thread Group 1-6,text,true,,294,220,44,44,http://6bf0-184-147-205-151.ngrok.io/login,3255,0,0
+1666541230543,1449,Add item to cart,200,OK,Thread Group 1-4,text,true,,285,224,44,44,http://6bf0-184-147-205-151.ngrok.io/cart/item,1449,0,0
+1666541229038,2995,Checkout,200,OK,Thread Group 1-14,text,true,,280,223,44,44,http://6bf0-184-147-205-151.ngrok.io/checkout,2995,0,0
+1666541230951,1140,Home page,200,OK,Thread Group 1-43,text,true,,242,131,44,44,http://6bf0-184-147-205-151.ngrok.io/,1140,0,30
+1666541230702,1485,Login,200,OK,Thread Group 1-28,text,true,,294,220,45,45,http://6bf0-184-147-205-151.ngrok.io/login,1485,0,0
+1666541228002,4220,Checkout,200,OK,Thread Group 1-15,text,true,,280,223,45,45,http://6bf0-184-147-205-151.ngrok.io/checkout,4220,0,0
+1666541230434,1816,Login,200,OK,Thread Group 1-40,text,true,,294,220,45,45,http://6bf0-184-147-205-151.ngrok.io/login,1816,0,0
+1666541228912,3381,Checkout,200,OK,Thread Group 1-13,text,true,,280,223,45,45,http://6bf0-184-147-205-151.ngrok.io/checkout,3381,0,0
+1666541230192,2121,Login,200,OK,Thread Group 1-22,text,true,,294,220,45,45,http://6bf0-184-147-205-151.ngrok.io/login,2121,0,0
+1666541230121,2224,Search items,200,OK,Thread Group 1-1,text,true,,296,221,45,45,http://6bf0-184-147-205-151.ngrok.io/search,2224,0,0
+1666541230999,1375,Home page,200,OK,Thread Group 1-12,text,true,,242,131,45,45,http://6bf0-184-147-205-151.ngrok.io/,1375,0,28
+1666541229912,2499,Search items,200,OK,Thread Group 1-21,text,true,,296,221,45,45,http://6bf0-184-147-205-151.ngrok.io/search,2499,0,0
+1666541230959,1525,Add item to cart,200,OK,Thread Group 1-20,text,true,,285,224,45,45,http://6bf0-184-147-205-151.ngrok.io/cart/item,1525,0,0
+1666541228121,4429,Checkout,200,OK,Thread Group 1-29,text,true,,280,223,45,45,http://6bf0-184-147-205-151.ngrok.io/checkout,4429,0,0
+1666541230660,1893,Login,200,OK,Thread Group 1-7,text,true,,294,220,45,45,http://6bf0-184-147-205-151.ngrok.io/login,1893,0,0
+1666541230476,2184,Search items,200,OK,Thread Group 1-37,text,true,,296,221,45,45,http://6bf0-184-147-205-151.ngrok.io/search,2184,0,0
+1666541231045,1624,Login,200,OK,Thread Group 1-23,text,true,,294,220,45,45,http://6bf0-184-147-205-151.ngrok.io/login,1624,0,0
+1666541231683,1012,Add item to cart,200,OK,Thread Group 1-8,text,true,,285,224,45,45,http://6bf0-184-147-205-151.ngrok.io/cart/item,1012,0,0
+1666541228943,3762,Checkout,200,OK,Thread Group 1-30,text,true,,280,223,45,45,http://6bf0-184-147-205-151.ngrok.io/checkout,3762,0,0
+1666541232034,686,Home page,200,OK,Thread Group 1-14,text,true,,242,131,45,45,http://6bf0-184-147-205-151.ngrok.io/,685,0,27
+1666541231457,1310,Login,200,OK,Thread Group 1-11,text,true,,294,220,46,46,http://6bf0-184-147-205-151.ngrok.io/login,1310,0,0
+1666541230969,1805,Add item to cart,200,OK,Thread Group 1-19,text,true,,285,224,46,46,http://6bf0-184-147-205-151.ngrok.io/cart/item,1805,0,0
+1666541231767,1053,Search items,200,OK,Thread Group 1-38,text,true,,296,221,46,46,http://6bf0-184-147-205-151.ngrok.io/search,1053,0,0
+1666541232222,607,Home page,200,OK,Thread Group 1-15,text,true,,242,131,46,46,http://6bf0-184-147-205-151.ngrok.io/,607,0,30
+1666541231767,1107,Add item to cart,200,OK,Thread Group 1-33,text,true,,285,224,46,46,http://6bf0-184-147-205-151.ngrok.io/cart/item,1107,0,0
+1666541232154,736,Home page,200,OK,Thread Group 1-45,text,true,,242,131,46,46,http://6bf0-184-147-205-151.ngrok.io/,736,0,29
+1666541230292,2698,Login,200,OK,Thread Group 1-10,text,true,,294,220,46,46,http://6bf0-184-147-205-151.ngrok.io/login,2698,0,0
+1666541231669,1342,Add item to cart,200,OK,Thread Group 1-36,text,true,,285,224,46,46,http://6bf0-184-147-205-151.ngrok.io/cart/item,1342,0,0
+1666541231349,1670,Add item to cart,200,OK,Thread Group 1-25,text,true,,285,224,46,46,http://6bf0-184-147-205-151.ngrok.io/cart/item,1669,0,0
+1666541231550,1493,Home page,200,OK,Thread Group 1-44,text,true,,242,131,46,46,http://6bf0-184-147-205-151.ngrok.io/,1492,0,29
+1666541231174,1932,Login,200,OK,Thread Group 1-42,text,true,,294,220,46,46,http://6bf0-184-147-205-151.ngrok.io/login,1932,0,0
+1666541231585,1527,Search items,200,OK,Thread Group 1-39,text,true,,296,221,46,46,http://6bf0-184-147-205-151.ngrok.io/search,1527,0,0
+1666541230354,2820,Checkout,200,OK,Thread Group 1-18,text,true,,280,223,46,46,http://6bf0-184-147-205-151.ngrok.io/checkout,2820,0,0
+1666541232346,880,Add item to cart,200,OK,Thread Group 1-1,text,true,,285,224,46,46,http://6bf0-184-147-205-151.ngrok.io/cart/item,880,0,0
+1666541231344,1884,Search items,200,OK,Thread Group 1-24,text,true,,296,221,46,46,http://6bf0-184-147-205-151.ngrok.io/search,1883,0,0
+1666541232250,1124,Search items,200,OK,Thread Group 1-40,text,true,,296,221,47,47,http://6bf0-184-147-205-151.ngrok.io/search,1124,0,0
+1666541230660,2784,Login,200,OK,Thread Group 1-41,text,true,,294,220,47,47,http://6bf0-184-147-205-151.ngrok.io/login,2784,0,0
+1666541232374,1084,Login,200,OK,Thread Group 1-12,text,true,,294,220,47,47,http://6bf0-184-147-205-151.ngrok.io/login,1084,0,0
+1666541231152,2328,Login,200,OK,Thread Group 1-26,text,true,,294,220,47,47,http://6bf0-184-147-205-151.ngrok.io/login,2328,0,0
+1666541231151,2356,Checkout,200,OK,Thread Group 1-3,text,true,,280,223,47,47,http://6bf0-184-147-205-151.ngrok.io/checkout,2356,0,0
+1666541232313,1237,Search items,200,OK,Thread Group 1-22,text,true,,296,221,47,47,http://6bf0-184-147-205-151.ngrok.io/search,1237,0,0
+1666541232670,926,Search items,200,OK,Thread Group 1-23,text,true,,296,221,47,47,http://6bf0-184-147-205-151.ngrok.io/search,926,0,0
+1666541232091,1547,Login,200,OK,Thread Group 1-43,text,true,,294,220,47,47,http://6bf0-184-147-205-151.ngrok.io/login,1547,0,0
+1666541232767,878,Search items,200,OK,Thread Group 1-11,text,true,,296,221,47,47,http://6bf0-184-147-205-151.ngrok.io/search,878,0,0
+1666541232706,943,Home page,200,OK,Thread Group 1-30,text,true,,242,131,47,47,http://6bf0-184-147-205-151.ngrok.io/,943,0,28
+1666541232293,1379,Home page,200,OK,Thread Group 1-13,text,true,,242,131,47,47,http://6bf0-184-147-205-151.ngrok.io/,1379,0,29
+1666541231951,1754,Search items,200,OK,Thread Group 1-9,text,true,,296,221,47,47,http://6bf0-184-147-205-151.ngrok.io/search,1754,0,0
+1666541232660,1079,Add item to cart,200,OK,Thread Group 1-37,text,true,,285,224,47,47,http://6bf0-184-147-205-151.ngrok.io/cart/item,1079,0,0
+1666541231326,2447,Login,200,OK,Thread Group 1-27,text,true,,294,220,47,47,http://6bf0-184-147-205-151.ngrok.io/login,2447,0,0
+1666541231111,2662,Checkout,200,OK,Thread Group 1-31,text,true,,280,223,47,47,http://6bf0-184-147-205-151.ngrok.io/checkout,2662,0,0
+1666541232751,1118,Home page,200,OK,Thread Group 1-46,text,true,,242,131,47,47,http://6bf0-184-147-205-151.ngrok.io/,1118,0,29
+1666541232821,1076,Add item to cart,200,OK,Thread Group 1-38,text,true,,285,224,47,47,http://6bf0-184-147-205-151.ngrok.io/cart/item,1076,0,0
+1666541232550,1395,Home page,200,OK,Thread Group 1-29,text,true,,242,131,47,47,http://6bf0-184-147-205-151.ngrok.io/,1395,0,30
+1666541231732,2216,Checkout,200,OK,Thread Group 1-34,text,true,,280,223,47,47,http://6bf0-184-147-205-151.ngrok.io/checkout,2216,0,0
+1666541232991,968,Search items,200,OK,Thread Group 1-10,text,true,,296,221,48,48,http://6bf0-184-147-205-151.ngrok.io/search,968,0,0
+1666541233349,712,Home page,200,OK,Thread Group 1-47,text,true,,242,131,48,48,http://6bf0-184-147-205-151.ngrok.io/,712,0,35
+1666541232411,1726,Add item to cart,200,OK,Thread Group 1-21,text,true,,285,224,48,48,http://6bf0-184-147-205-151.ngrok.io/cart/item,1726,0,0
+1666541232720,1448,Login,200,OK,Thread Group 1-14,text,true,,294,220,48,48,http://6bf0-184-147-205-151.ngrok.io/login,1448,0,0
+1666541232829,1339,Login,200,OK,Thread Group 1-15,text,true,,294,220,48,48,http://6bf0-184-147-205-151.ngrok.io/login,1339,0,0
+1666541232188,2061,Search items,200,OK,Thread Group 1-28,text,true,,296,221,48,48,http://6bf0-184-147-205-151.ngrok.io/search,2061,0,0
+1666541231146,3149,Checkout,200,OK,Thread Group 1-32,text,true,,280,223,48,48,http://6bf0-184-147-205-151.ngrok.io/checkout,3149,0,0
+1666541232554,1836,Search items,200,OK,Thread Group 1-7,text,true,,296,221,48,48,http://6bf0-184-147-205-151.ngrok.io/search,1836,0,0
+1666541233551,873,Add item to cart,200,OK,Thread Group 1-22,text,true,,285,224,48,48,http://6bf0-184-147-205-151.ngrok.io/cart/item,873,0,0
+1666541231977,2459,Search items,200,OK,Thread Group 1-6,text,true,,296,221,48,48,http://6bf0-184-147-205-151.ngrok.io/search,2459,0,0
+1666541231919,2551,Login,200,OK,Thread Group 1-2,text,true,,294,220,48,48,http://6bf0-184-147-205-151.ngrok.io/login,2551,0,0
+1666541233228,1287,Add item to cart,200,OK,Thread Group 1-24,text,true,,285,224,48,48,http://6bf0-184-147-205-151.ngrok.io/cart/item,1287,0,0
+1666541229968,4570,Checkout,200,OK,Thread Group 1-17,text,true,,280,223,48,48,http://6bf0-184-147-205-151.ngrok.io/checkout,4570,0,0
+1666541233374,1182,Add item to cart,200,OK,Thread Group 1-40,text,true,,285,224,49,49,http://6bf0-184-147-205-151.ngrok.io/cart/item,1182,0,0
+1666541230822,3791,Checkout,200,OK,Thread Group 1-16,text,true,,280,223,49,49,http://6bf0-184-147-205-151.ngrok.io/checkout,3791,0,0
+1666541233112,1519,Add item to cart,200,OK,Thread Group 1-39,text,true,,285,224,49,49,http://6bf0-184-147-205-151.ngrok.io/cart/item,1519,0,0
+1666541233706,970,Add item to cart,200,OK,Thread Group 1-9,text,true,,285,224,49,49,http://6bf0-184-147-205-151.ngrok.io/cart/item,970,0,0
+1666541233174,1537,Home page,200,OK,Thread Group 1-18,text,true,,242,131,49,49,http://6bf0-184-147-205-151.ngrok.io/,1537,0,36
+1666541233948,798,Home page,200,OK,Thread Group 1-34,text,true,,242,131,49,49,http://6bf0-184-147-205-151.ngrok.io/,798,0,29
+1666541233597,1175,Add item to cart,200,OK,Thread Group 1-23,text,true,,285,224,49,49,http://6bf0-184-147-205-151.ngrok.io/cart/item,1174,0,0
+1666541233507,1449,Home page,200,OK,Thread Group 1-3,text,true,,242,131,49,49,http://6bf0-184-147-205-151.ngrok.io/,1449,0,34
+1666541233645,1363,Add item to cart,200,OK,Thread Group 1-11,text,true,,285,224,49,49,http://6bf0-184-147-205-151.ngrok.io/cart/item,1363,0,0
+1666541233773,1270,Home page,200,OK,Thread Group 1-31,text,true,,242,131,49,49,http://6bf0-184-147-205-151.ngrok.io/,1270,0,30
+1666541233959,1099,Add item to cart,200,OK,Thread Group 1-10,text,true,,285,224,49,49,http://6bf0-184-147-205-151.ngrok.io/cart/item,1099,0,0
+1666541233949,1174,Home page,200,OK,Thread Group 1-48,text,true,,242,131,49,49,http://6bf0-184-147-205-151.ngrok.io/,1174,0,28
+1666541233444,1740,Search items,200,OK,Thread Group 1-41,text,true,,296,221,50,50,http://6bf0-184-147-205-151.ngrok.io/search,1739,0,0
+1666541231563,3627,Checkout,200,OK,Thread Group 1-5,text,true,,280,223,50,50,http://6bf0-184-147-205-151.ngrok.io/checkout,3627,0,0
+1666541233458,1750,Search items,200,OK,Thread Group 1-12,text,true,,296,221,50,50,http://6bf0-184-147-205-151.ngrok.io/search,1750,0,0
+1666541233106,2118,Search items,200,OK,Thread Group 1-42,text,true,,296,221,50,50,http://6bf0-184-147-205-151.ngrok.io/search,2118,0,0
+1666541233773,1451,Search items,200,OK,Thread Group 1-27,text,true,,296,221,50,50,http://6bf0-184-147-205-151.ngrok.io/search,1451,0,0
+1666541233946,1352,Login,200,OK,Thread Group 1-29,text,true,,294,220,50,50,http://6bf0-184-147-205-151.ngrok.io/login,1352,0,0
+1666541234169,1184,Search items,200,OK,Thread Group 1-14,text,true,,296,221,50,50,http://6bf0-184-147-205-151.ngrok.io/search,1184,0,0
+1666541234296,1098,Home page,200,OK,Thread Group 1-32,text,true,,242,131,50,50,http://6bf0-184-147-205-151.ngrok.io/,1098,0,32
+1666541234551,873,Home page,200,OK,Thread Group 1-49,text,true,,242,131,50,50,http://6bf0-184-147-205-151.ngrok.io/,873,0,35
+1666541232774,2731,Checkout,200,OK,Thread Group 1-19,text,true,,280,223,50,50,http://6bf0-184-147-205-151.ngrok.io/checkout,2731,0,0
+1666541233649,1916,Login,200,OK,Thread Group 1-30,text,true,,294,220,50,50,http://6bf0-184-147-205-151.ngrok.io/login,1916,0,0
+1666541234391,1228,Add item to cart,200,OK,Thread Group 1-7,text,true,,285,224,50,50,http://6bf0-184-147-205-151.ngrok.io/cart/item,1228,0,0
+1666541233639,2020,Search items,200,OK,Thread Group 1-43,text,true,,296,221,50,50,http://6bf0-184-147-205-151.ngrok.io/search,2020,0,0
+1666541233739,1985,Checkout,200,OK,Thread Group 1-37,text,true,,280,223,50,50,http://6bf0-184-147-205-151.ngrok.io/checkout,1985,0,0
+1666541234249,1509,Add item to cart,200,OK,Thread Group 1-28,text,true,,285,224,50,50,http://6bf0-184-147-205-151.ngrok.io/cart/item,1509,0,0
+1666541234712,1103,Login,200,OK,Thread Group 1-18,text,true,,294,220,50,50,http://6bf0-184-147-205-151.ngrok.io/login,1103,0,0
+1666541233481,2351,Search items,200,OK,Thread Group 1-26,text,true,,296,221,49,49,http://6bf0-184-147-205-151.ngrok.io/search,2351,0,0
+1666541232890,3013,Login,200,OK,Thread Group 1-45,text,true,,294,220,48,48,http://6bf0-184-147-205-151.ngrok.io/login,3013,0,0
+1666541234062,1911,Login,200,OK,Thread Group 1-47,text,true,,294,220,47,47,http://6bf0-184-147-205-151.ngrok.io/login,1911,0,0
+1666541235208,830,Add item to cart,200,OK,Thread Group 1-12,text,true,,285,224,46,46,http://6bf0-184-147-205-151.ngrok.io/cart/item,830,0,0
+1666541233043,3004,Login,200,OK,Thread Group 1-44,text,true,,294,220,45,45,http://6bf0-184-147-205-151.ngrok.io/login,3004,0,0
+1666541235224,830,Add item to cart,200,OK,Thread Group 1-42,text,true,,285,224,44,44,http://6bf0-184-147-205-151.ngrok.io/cart/item,830,0,0
+1666541234538,1518,Home page,200,OK,Thread Group 1-17,text,true,,242,131,43,43,http://6bf0-184-147-205-151.ngrok.io/,1518,0,36
+1666541234614,1455,Home page,200,OK,Thread Group 1-16,text,true,,242,131,42,42,http://6bf0-184-147-205-151.ngrok.io/,1455,0,30
+1666541234436,1634,Add item to cart,200,OK,Thread Group 1-6,text,true,,285,224,41,41,http://6bf0-184-147-205-151.ngrok.io/cart/item,1634,0,0
+1666541233019,3056,Checkout,200,OK,Thread Group 1-25,text,true,,280,223,40,40,http://6bf0-184-147-205-151.ngrok.io/checkout,3056,0,0
+1666541233870,2251,Login,200,OK,Thread Group 1-46,text,true,,294,220,39,39,http://6bf0-184-147-205-151.ngrok.io/login,2251,0,0
+1666541233226,2903,Checkout,200,OK,Thread Group 1-1,text,true,,280,223,38,38,http://6bf0-184-147-205-151.ngrok.io/checkout,2903,0,0
+1666541234471,1676,Search items,200,OK,Thread Group 1-2,text,true,,296,221,37,37,http://6bf0-184-147-205-151.ngrok.io/search,1676,0,0
+1666541234169,2014,Search items,200,OK,Thread Group 1-15,text,true,,296,221,36,36,http://6bf0-184-147-205-151.ngrok.io/search,2014,0,0
+1666541231993,4190,Checkout,200,OK,Thread Group 1-4,text,true,,280,223,36,36,http://6bf0-184-147-205-151.ngrok.io/checkout,4190,0,0
+1666541235148,1145,Home page,200,OK,Thread Group 1-50,text,true,,242,131,34,34,http://6bf0-184-147-205-151.ngrok.io/,1145,0,28
+1666541235353,948,Add item to cart,200,OK,Thread Group 1-14,text,true,,285,224,33,33,http://6bf0-184-147-205-151.ngrok.io/cart/item,948,0,0
+1666541234746,1649,Login,200,OK,Thread Group 1-34,text,true,,294,220,32,32,http://6bf0-184-147-205-151.ngrok.io/login,1649,0,0
+1666541235184,1231,Add item to cart,200,OK,Thread Group 1-41,text,true,,285,224,31,31,http://6bf0-184-147-205-151.ngrok.io/cart/item,1231,0,0
+1666541235725,716,Home page,200,OK,Thread Group 1-37,text,true,,242,131,30,30,http://6bf0-184-147-205-151.ngrok.io/,716,0,28
+1666541231948,4496,Checkout,200,OK,Thread Group 1-35,text,true,,280,223,29,29,http://6bf0-184-147-205-151.ngrok.io/checkout,4496,0,0
+1666541232696,3771,Checkout,200,OK,Thread Group 1-8,text,true,,280,223,28,28,http://6bf0-184-147-205-151.ngrok.io/checkout,3771,0,0
+1666541233673,2811,Login,200,OK,Thread Group 1-13,text,true,,294,220,27,27,http://6bf0-184-147-205-151.ngrok.io/login,2811,0,0
+1666541232484,4039,Checkout,200,OK,Thread Group 1-20,text,true,,280,223,26,26,http://6bf0-184-147-205-151.ngrok.io/checkout,4039,0,0
+1666541234515,2042,Checkout,200,OK,Thread Group 1-24,text,true,,280,223,25,25,http://6bf0-184-147-205-151.ngrok.io/checkout,2042,0,0
+1666541235224,1377,Add item to cart,200,OK,Thread Group 1-27,text,true,,285,224,24,24,http://6bf0-184-147-205-151.ngrok.io/cart/item,1377,0,0
+1666541234956,1671,Login,200,OK,Thread Group 1-3,text,true,,294,220,23,23,http://6bf0-184-147-205-151.ngrok.io/login,1671,0,0
+1666541235191,1551,Home page,200,OK,Thread Group 1-5,text,true,,242,131,22,22,http://6bf0-184-147-205-151.ngrok.io/,1551,0,27
+1666541232874,3893,Checkout,200,OK,Thread Group 1-33,text,true,,280,223,21,21,http://6bf0-184-147-205-151.ngrok.io/checkout,3893,0,0
+1666541235505,1281,Home page,200,OK,Thread Group 1-19,text,true,,242,131,20,20,http://6bf0-184-147-205-151.ngrok.io/,1281,0,28
+1666541235298,1514,Search items,200,OK,Thread Group 1-29,text,true,,296,221,19,19,http://6bf0-184-147-205-151.ngrok.io/search,1514,0,0
+1666541233897,2947,Checkout,200,OK,Thread Group 1-38,text,true,,280,223,18,18,http://6bf0-184-147-205-151.ngrok.io/checkout,2947,0,0
+1666541233011,3847,Checkout,200,OK,Thread Group 1-36,text,true,,280,223,17,17,http://6bf0-184-147-205-151.ngrok.io/checkout,3847,0,0
+1666541235008,2057,Checkout,200,OK,Thread Group 1-11,text,true,,280,223,16,16,http://6bf0-184-147-205-151.ngrok.io/checkout,2056,0,0
+1666541235043,2022,Login,200,OK,Thread Group 1-31,text,true,,294,220,16,16,http://6bf0-184-147-205-151.ngrok.io/login,2021,0,0
+1666541235565,1573,Search items,200,OK,Thread Group 1-30,text,true,,296,221,14,14,http://6bf0-184-147-205-151.ngrok.io/search,1573,0,0
+1666541235425,1765,Login,200,OK,Thread Group 1-49,text,true,,294,220,13,13,http://6bf0-184-147-205-151.ngrok.io/login,1765,0,0
+1666541234677,2513,Checkout,200,OK,Thread Group 1-9,text,true,,280,223,13,13,http://6bf0-184-147-205-151.ngrok.io/checkout,2513,0,0
+1666541235660,1690,Add item to cart,200,OK,Thread Group 1-43,text,true,,285,224,11,11,http://6bf0-184-147-205-151.ngrok.io/cart/item,1690,0,0
+1666541234632,3098,Checkout,200,OK,Thread Group 1-39,text,true,,280,223,10,10,http://6bf0-184-147-205-151.ngrok.io/checkout,3098,0,0
+1666541234137,3790,Checkout,200,OK,Thread Group 1-21,text,true,,280,223,9,9,http://6bf0-184-147-205-151.ngrok.io/checkout,3790,0,0
+1666541234772,3253,Checkout,200,OK,Thread Group 1-23,text,true,,280,223,8,8,http://6bf0-184-147-205-151.ngrok.io/checkout,3253,0,0
+1666541235123,3041,Login,200,OK,Thread Group 1-48,text,true,,294,220,7,7,http://6bf0-184-147-205-151.ngrok.io/login,3041,0,0
+1666541234556,3845,Checkout,200,OK,Thread Group 1-40,text,true,,280,223,6,6,http://6bf0-184-147-205-151.ngrok.io/checkout,3845,0,0
+1666541235394,3089,Login,200,OK,Thread Group 1-32,text,true,,294,220,5,5,http://6bf0-184-147-205-151.ngrok.io/login,3089,0,0
+1666541234424,4542,Checkout,200,OK,Thread Group 1-22,text,true,,280,223,4,4,http://6bf0-184-147-205-151.ngrok.io/checkout,4542,0,0
+1666541235059,4215,Checkout,200,OK,Thread Group 1-10,text,true,,280,223,3,3,http://6bf0-184-147-205-151.ngrok.io/checkout,4215,0,0
+1666541235759,3553,Checkout,200,OK,Thread Group 1-28,text,true,,280,223,2,2,http://6bf0-184-147-205-151.ngrok.io/checkout,3553,0,0
+1666541235619,4055,Checkout,200,OK,Thread Group 1-7,text,true,,280,223,1,1,http://6bf0-184-147-205-151.ngrok.io/checkout,4055,0,0
