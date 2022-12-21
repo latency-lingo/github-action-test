@@ -1,6 +1,6 @@
 on: [push]
 jobs:
-  Main:
+  performance-test:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3.2.0
@@ -10,3 +10,4 @@ jobs:
           api-key: ${{ secrets.LATENCY_LINGO_API_KEY }}
           file: jmeter-results.jtl
           label: Github Actions Test
+          format: jmeter
