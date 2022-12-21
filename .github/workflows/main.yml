@@ -13,7 +13,8 @@ jobs:
         # echo "result=$result" >> $GITHUB_OUTPUT
         run: |
           ./latency-lingo-cli publish --file "jmeter-results.jtl" --api-key "$LATENCY_LINGO_API_KEY" --label "Manual Github Action Report" --format "jmeter" --env "production" > output.log | tee out
-          grep "Test run status" output.log | awk '{print $6}'
+          result=`grep "Test run status" output.log | awk '{print $6}'`
+          echo "result=$result" >> $GITHUB_OUTPUT
         env:
           LATENCY_LINGO_API_KEY: ${{ secrets.LATENCY_LINGO_API_KEY }}
         shell: bash
