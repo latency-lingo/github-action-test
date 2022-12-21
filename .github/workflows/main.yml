@@ -19,14 +19,14 @@ jobs:
           LATENCY_LINGO_API_KEY: ${{ secrets.LATENCY_LINGO_API_KEY }}
         shell: bash
       - name: set-build-status
+        # status="${{fromJson(steps.publish-results-file.outputs.result).status}}"
+        #   if [ $status = "pass" ]; then
+        #     exit 0
+        #   else
+        #     exit 1
+        #   fi
         run: |
-          echo ${{steps.publish-results-file.outputs.result}}
-          status="${{fromJson(steps.publish-results-file.outputs.result).status}}"
-          if [ $status = "pass" ]; then
-            exit 0
-          else
-            exit 1
-          fi
+          echo "${{steps.publish-results-file.outputs.result}}"
         shell: bash
       # - uses: latency-lingo/github-action@52fa4a09a2c3e359015b40996dcc0afdaf399088
       #   with:
