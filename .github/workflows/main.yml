@@ -5,7 +5,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3.2.0
       - name: Latency Lingo
-        uses: latency-lingo/github-action@v0.0.1
+        uses: latency-lingo/github-action@v0.0.2
         with:
           api-key: ${{ secrets.LATENCY_LINGO_API_KEY }}
           file: jmeter-results.jtl
